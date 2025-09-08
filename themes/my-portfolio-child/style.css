@@ -1,0 +1,17 @@
+/*
+ Theme Name: My Portfolio Child
+ Template: hello-elementor
+ Description: Child theme for my portfolio
+ Version: 1.0
+ Author: Muhammad Huzaifa
+*/
+
+/* === Custom child theme CSS starts below === */
+
+/* Example: small visual test - won't break layout */
+.site-title {
+  /* change color of site title to confirm child CSS loads (you can remove later) */
+  color: #1a73e8;
+}
+
+/* Add your custom CSS below this line */
