@@ -1,2 +1,3 @@
 # wordpress-portfolio
-My personal portfolio showcasing Wordpress sites and projects.
+
+This repo contains my child theme and Elementor templates for my portfolio.
